@@ -20,8 +20,8 @@ public class Bitly {
     public static final String API_BASE = "http://api.bit.ly";
     public static final String API_METHOD_SHORTEN = "/v3/shorten";
     public static final String API_METHOD_EXPAND = "/v3/expand";
-    public static final String API_LOGIN = "login=moyashimanjyu";
-    public static final String API_KEY = "apiKey=R_8c7d7137a4e32936be0a7c50d9fe5719";
+    public static final String API_LOGIN = "login=xxxxxxxx";
+    public static final String API_KEY = "apiKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
     public static final String API_FORMAT = "format=txt";
 
     public static final String shorten(String longUrl) {
