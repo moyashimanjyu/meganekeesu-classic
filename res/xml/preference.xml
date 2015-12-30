@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="設定" >
+        <CheckBoxPreference
+            android:key="mode_largeicon"
+            android:summary="お好みで"
+            android:title="大きめアイコン" />
+        <ListPreference
+            android:defaultValue="1"
+            android:dialogTitle="文字サイズ"
+            android:entries="@array/text_size"
+            android:entryValues="@array/text_size_value"
+            android:key="mode_text_size"
+            android:summary="お好みで"
+            android:title="文字サイズ" />
+        <CheckBoxPreference
+            android:key="mode_lightcolor"
+            android:summary="画面暗くしたらこっちがいいかも"
+            android:title="明るめ色" />
+        <CheckBoxPreference
+            android:key="mode_voice"
+            android:summary="ｳﾜｱｱｱｧｱｱｱｧｱｱｼｬﾍﾞｯﾀｱｱｱｧｱｱｱｧｱｱ（※マナー中でも音鳴ります）"
+            android:title="音声通知ON" />
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="音声の種類"
+            android:entries="@array/voice_type"
+            android:entryValues="@array/voice_type_value"
+            android:key="mode_voice_type"
+            android:title="音声の種類" />
+        <CheckBoxPreference
+            android:key="mode_viberation"
+            android:summary="震えるぞハート！"
+            android:title="バイブレーション" />
+        <CheckBoxPreference
+            android:key="mode_infoview"
+            android:title="タイムラインの情報表示" />
+        <CheckBoxPreference
+            android:key="mode_mute"
+            android:title="ミュート" />
+        <CheckBoxPreference
+            android:key="mode_singleline"
+            android:summary="単行化"
+            android:title="シングルライン" />
+        <CheckBoxPreference
+            android:key="mode_multireply"
+            android:summary="＠をみんなに飛ばしたいとき"
+            android:title="複＠" />
+        <CheckBoxPreference
+            android:key="mode_rakuraku"
+            android:summary="ユニバーサルデザインへの取組み"
+            android:title="らくらくホン" />
+        <CheckBoxPreference
+            android:key="mode_nodialog"
+            android:summary="ボタン押したら即ふぁぼる（※誤爆注意）"
+            android:title="もう何も怖くない" />
+        <CheckBoxPreference
+            android:key="mode_beast"
+            android:summary="モード反転、裏コード。（次回起動時反映）"
+            android:title="ザ・ビースト" />
+        <CheckBoxPreference
+            android:key="mode_powersave"
+            android:summary="スクリーンオフ"
+            android:title="節電かも" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menuPost" android:title="@string/post" />
+	<item android:id="@+id/menuExtream" android:title="Extreme" />
+	<item android:id="@+id/menuSetting" android:title="設定" />
+	<item android:id="@+id/menuSecret" android:title="@string/search" />
+	<item android:id="@+id/menuFavstar" android:title="Favstar" />
+	<item android:id="@+id/menuAuth" android:title="@string/auth" />
+	<item android:id="@+id/menuRequest" android:title="鍵開けリクエスト確認" />
+	<item android:id="@+id/menuPower" android:title="東京電力" />
+	<item android:id="@+id/menuTz" android:title="タイムゾーン" />
+	<item android:id="@+id/menuRice" android:title="ご飯炊きたい" />
+	<item android:id="@+id/menuGiga" android:title="ギガ進化" />
+	<item android:id="@+id/menuSite" android:title="@string/about" />
+</menu>

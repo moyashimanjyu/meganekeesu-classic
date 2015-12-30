@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppTheme" parent="@android:style/Theme.NoTitleBar" />
+    <color name="test_background">#40404040</color>
+    <style name="Theme.Test" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/test_background</item>
+        <item name="android:windowNoTitle">true</item>
+	</style>
+</resources>

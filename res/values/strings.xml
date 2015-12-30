@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_tag">MeganeCase</string>
+    <string name="app_name">メ・ガ・ネ！メガネケ・エ・ス！</string>
+    <string name="app_name_short">メガネケエス</string>
+    <string name="morisoba">もりそば大陸 by メガネケエス</string>
+    <string name="onsei">音声通知スイッチ</string>
+    <string name="meganekes">メガネケ[es]</string>
+    <string name="tepco">東京電力の電力使用状況</string>
+    <string name="wait">接続中</string>
+    <string name="post">投稿</string>
+    <string name="auth">認証</string>
+    <string name="about">About</string>
+    <string name="search">検索</string>
+    <string name="error">おやっ、何かがおかしいです。</string>
+    <string name="confirm_retweet">リツイートしますか？</string>
+    <string name="confirm_favorite">ふぁぼりますか？</string>
+    <string name="confirm_blank">空リプしますか？</string>
+    <string name="confirm_favrt">ふぁぼって公式？</string>
+    <string name="confirm_delete">削除しますか？</string>
+    <string name="finish_retweet">リツイートしました</string>
+    <string name="finish_favorite">ふぁぼりました</string>
+    <string name="finish_blank">空リプしました</string>
+    <string name="finish_favrt">ふぁぼって公式しました</string>
+    <string name="finish_delete">削除しました</string>
+    <string name="msg_favorite">にふぁぼられました。</string>
+    <string name="msg_unfavorite">にふぁぼやめられました。</string>
+    <string name="msg_follow">にフォローされました。</string>
+    <string name="msg_unfollow">にリムられました。</string>
+    <string name="msg_block">にブロックされました。</string>
+    <string name="select_follow">フォローする</string>
+    <string name="select_follow_request">鍵っ子にリクエストする</string>
+    <string name="select_remove">リムる</string>
+    <string name="select_block">ブロックする</string>
+    <string name="select_unblock">ブロック解除する</string>
+    <string name="select_r4s">スパム報告する</string>
+    <string name="vibe_on">震えるぞハート！</string>
+    <string name="vibe_off">震えないぞハート！</string>
+    <string name="latitude">緯度</string>
+    <string name="longitude">経度</string>
+    <string name="oauth_clear">垢消し</string>
+    <string-array name="voice_type">
+        <item>NORMAL</item>
+        <item>MOE</item>
+        <item>KOREDEMO</item>
+    </string-array>
+    <string-array name="voice_type_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="text_size">
+        <item>小さめ</item>
+        <item>普通</item>
+        <item>大きめ</item>
+    </string-array>
+    <string-array name="text_size_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

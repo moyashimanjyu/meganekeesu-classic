@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/reply_widget"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage01"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText01"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage02"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText02"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage03"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText03"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage04"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText04"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage05"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText05"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage06"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText06"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage07"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText07"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage08"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText08"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage09"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText09"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/meganekesImage10"
+            android:layout_width="20dip"
+            android:layout_height="20dip" />
+        <TextView
+            android:id="@+id/meganekesText10"
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:shadowColor="#ff000000"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.0"
+            android:singleLine="true"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+</LinearLayout>

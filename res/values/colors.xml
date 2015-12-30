@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clear">#00000000</color>
+    <color name="half">#c0000000</color>
+    <color name="mention">#f09090</color>
+    <color name="mine">#8080e0</color>
+    <color name="fav">#e0e080</color>
+    <color name="retweet">#80e080</color>
+    <color name="mention_light">#ffa0a0</color>
+    <color name="mine_light">#a0a0ff</color>
+    <color name="fav_light">#ffffa0</color>
+    <color name="retweet_light">#a0ffa0</color>
+</resources>
