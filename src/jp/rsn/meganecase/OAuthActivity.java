@@ -25,13 +25,13 @@ public class OAuthActivity extends BaseActivity {
 
         if ("jp.rsn.meganecase.OAUTH".equals(getIntent().getAction())) {
             Bundle extras = getIntent().getExtras();
-            if (extras != null && "clM24K5iKknQIPROtLLg".equals(extras.getString("P0"))) {
+            if (extras != null && "xxxxxxxxxxxxxxxxxxxx".equals(extras.getString("P0"))) {
                 SharedPreferences pref = getSharedPreferences(App.TAG, MODE_PRIVATE);
                 String token = pref.getString("token", null);
                 String tokenSecret = pref.getString("tokenSecret", null);
                 if (token != null && tokenSecret != null) {
                     Intent data = new Intent();
-                    data.putExtra("P1", "clM24K5iKknQIPROtLLg");
+                    data.putExtra("P1", "xxxxxxxxxxxxxxxxxxxx");
                     data.putExtra("P2", token);
                     data.putExtra("P3", tokenSecret);
                     setResult(RESULT_OK, data);
